@@ -38,7 +38,7 @@
 
 ## Ссылка на github pages 
 
-​https://olagolanova.github.io/BigCities/
+​https://nellyktv.github.io/BigCities/
 
 ## Командная работа
 
